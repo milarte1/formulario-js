@@ -1,0 +1,22 @@
+main{
+    background-color:rgb(229, 215, 24);
+    padding: 30px;
+}
+
+h1{
+    color: gray;
+}
+
+h3{
+   color: lightgray; 
+}
+
+li{
+    font-size: 26px;
+}
+ul li{
+    font-weight: bold;
+}
+header nav{
+    margin:20px ;
+}
